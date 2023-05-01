@@ -1,4 +1,4 @@
-
+import problema1
 
 
 edad = 22
@@ -21,3 +21,5 @@ if __name__ == '__main__':
     lista_1[0] = 20
     print(lista_1)
     print(lista_1[0] + lista_1[3])
+    print()
+    problema1.sumar_5_enteros()
